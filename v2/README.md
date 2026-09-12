@@ -3,6 +3,18 @@
 An implementation of a blogging agent that can generate blog posts based on user input. This agent can be used to create content for personal blogs, company websites, or any other platform that requires written content.
 - - -
 
+
+## Structure of the project:
+```
+research-agent/
+├── .env
+├── config/
+│   ├── agents.md
+│   └── tasks.md
+├── main.py
+└── requirements.txt
+```
+
 ## Tools and technologies used in this project include:
 - Python:
     - Virtual environment for managing dependencies and running the agent.
